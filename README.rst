@@ -5,8 +5,7 @@ Contents
 * ``./TauDL_Create`` contains the main deep learning training code of the article and the corresponding training functions
   (There is no dataset because some data requires permission, while others can be downloaded by yourself)
   (ARMS needs to seek the consent of weng et al. Reference: Advanced Radiative Transfer Modeling System (ARMS) A New-Generation Satellite Observation Operator Developed for Numerical Weather Prediction and Remote Sensing  Applications )
-* ``./interace`` 
-    Contains the C++ wrapper code and header files required to bridge the Fortran-based ODPSDL core with the PyTorch LibTorch backend. 
+* ``./Interface`` Contains the C++ wrapper code and header files required to bridge the Fortran-based ODPSDL core with the PyTorch LibTorch backend. 
 
 Dependencies
 ^^^^^^^^^^^^^^^^
